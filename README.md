@@ -9,3 +9,5 @@
 + 플레이어가 정답을 맞추면 정답이라고 나오고 틀린다면 숫자의 up/down이 표시된다.
 
 
+<img width="281" alt="스크린샷 2022-01-31 오전 12 26 03" src="https://user-images.githubusercontent.com/66238470/151706040-0b696386-3915-42fb-8266-8f5650d7739c.png">
+<img width="226" alt="스크린샷 2022-01-31 오전 12 26 12" src="https://user-images.githubusercontent.com/66238470/151706042-00c17722-af1d-4979-8258-0e997a13c14f.png">
